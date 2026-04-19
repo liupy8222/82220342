@@ -23,10 +23,6 @@ rm(list = ls())
 
 ### 多年气象图
 
-样例数据（Meteostat 开放气象数据平台（<https://meteostat.net/）>默认的日数据的数据结构）
-
-![](images/clipboard-3843068606.png){width="213" height="59"}
-
 ```{r}
 library(ggh4x)
 library(ggplot2)
@@ -270,16 +266,6 @@ if(!dir.exists(output_dir)) dir.create(output_dir)
 ```
 
 ### 数据导入
-
-2024297.xlsx 的样例结构，性状数无限制，按第一行分组，按第二行求平均后进行方差分析等
-
-![](images/clipboard-793691993.png){width="330"}
-
-单位对照表的样例结构，有无影响不大
-
-![英文对照表的样例结构，有无影响不大](images/clipboard-1304171994.png){width="330"}
-
-![](images/clipboard-995130501.png){width="330"}
 
 ```{r}
 file_name <- "2024297.xlsx" 
