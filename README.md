@@ -1,7 +1,7 @@
 所需数据如下
 
 气象图
-样例数据（Meteostat 开放气象数据平台（<https://meteostat.net/）>默认的日数据的数据结构）
+样例数据（2024qixiang.xlsx,Meteostat 开放气象数据平台（<https://meteostat.net/）>默认的日数据的数据结构）
 
 <img width="330" alt="b6a250e2d1baa3860fb965ea2307a741" src="https://github.com/user-attachments/assets/fdf2393d-c524-43a9-915d-39bedae68638" />
 
